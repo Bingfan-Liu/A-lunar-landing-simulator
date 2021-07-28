@@ -10,4 +10,4 @@ And I appreciate the help from Mr. Ganesh for creating this nice looking workflo
 
 
 Illustration about the methods for calculating the gradient: get_TD_update(self, s, delta_mat)
-![get_TD_update() illustration](RL NN get_TD_update() illustration.jpg)
+![gradient](RL_NN_get_TD_update()_illustration.jpg)
