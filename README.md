@@ -3,6 +3,11 @@
 
 This is a final course project that I did in Reinforcement Learning Specialization offered by the University of Alberta and Coursera.
 
-And I appreciate the help from Mr. Ganesh for creating this nice looking workflow plot.
 
+
+And I appreciate the help from Mr. Ganesh for creating this nice looking workflow plot.
 ![workflow](RL_Capstone_workflow_diagram.png)
+
+
+Illustration about the methods for calculating the gradient: get_TD_update(self, s, delta_mat)
+![get_TD_update() illustration](RL NN get_TD_update() illustration.png)
