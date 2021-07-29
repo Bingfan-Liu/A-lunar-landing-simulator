@@ -10,5 +10,5 @@ And I appreciate the help from Mr. Ganesh for creating this nice looking workflo
 
 
 Illustration about the methods for calculating the gradient: get_TD_update(self, s, delta_mat)
-Here, the action value, a, used in the illustration is denoted by v(a,s) in the text book.
+
 ![gradient](RL_NN_get_TD_update()_illustration.jpg)
